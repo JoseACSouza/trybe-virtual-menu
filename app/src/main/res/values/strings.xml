@@ -3,30 +3,4 @@
     <string name="main_title_text">Cardápio Online</string>
     <string name="back">Voltar</string>
     <string name="detail_text">Detalhe do Prato</string>
-
-    //nomes dos pratos
-    <string name="name_prato_1">File de Carne com Fritas</string>
-    <string name="name_prato_2">Frango Grelhado com Legumes</string>
-    <string name="name_prato_3">Mix de File de Carne e Frango Grelhados</string>
-    <string name="name_prato_4">Picanha Grelhada com Macaxeira Frita</string>
-    <string name="name_prato_5">Porção de Batatas Fritas com Molho</string>
-    <string name="name_prato_6">Suco de Laranja</string>
-
-
-    //descrição dos pratos/bebidas
-    <string name="desc_prato_1">Uma suculenta porção de filé de carne grelhado na perfeição, servido com deliciosas batatas fritas crocantes. Uma explosão de sabor que vai satisfazer seus desejos mais carnívoros.</string>
-    <string name="desc_prato_2">Uma opção saudável e saborosa: peitos de frango suculentos grelhados à perfeição, acompanhados de legumes frescos, preparados para manter a crocância e o sabor. Uma refeição leve e deliciosa para quem busca um toque de frescor.	</string>
-    <string name="desc_prato_3">A melhor escolha para os indecisos! Uma combinação harmoniosa de filé de carne suculento e peito de frango grelhado, oferecendo uma explosão de sabores em cada garfada. Acompanhado de opções de molhos que tornam essa escolha ainda mais especial. </string>
-    <string name="desc_prato_4">Uma refeição de dar água na boca! Picanha de primeira qualidade, grelhada à perfeição e servida com macaxeira frita crocante. Um prato que celebra o melhor da culinária brasileira.	</string>
-    <string name="desc_prato_5">Para os amantes de batatas, esta é a escolha ideal. Nossas batatas fritas são cortadas e preparadas na hora para garantir a crocância perfeita. Acompanhadas de uma variedade de molhos incríveis que vão tornar cada mordida ainda mais especial. Acompanhamento perfeito para qualquer refeição.	</string>
-    <string name="desc_prato_6">Um gole de pura refrescância e vitalidade. Nosso suco de laranja é feito com as laranjas mais suculentas e frescas, espremidas na hora para garantir o sabor cítrico e natural que todos adoram. Perfeito para acompanhar suas refeições ou para matar a sede a qualquer hora do dia. Deleite-se com o gosto da natureza em um copo.	</string>
-
-    //preço
-    <string name="preco_prato_1">R$ 65,00</string>
-    <string name="preco_prato_2">R$ 45,00</string>
-    <string name="preco_prato_3">R$ 85,00</string>
-    <string name="preco_prato_4">R$ 90,00</string>
-    <string name="preco_prato_5">R$ 20,00</string>
-    <string name="preco_prato_6">R$ 10,00</string>
-
 </resources>
